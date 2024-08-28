@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: gray;
+    background-color: rgb(202, 202, 36);
     margin: 15px;
 }
 
@@ -22,7 +22,7 @@ header h1{
     text-align: center;
     line-height: 70px;
     font-size: 35px;
-    text-shadow: 6px 6px 16px whitesmoke;
+    text-shadow: 6px 6px 16px rgb(174, 55, 55);
 }
 
 header ul{
